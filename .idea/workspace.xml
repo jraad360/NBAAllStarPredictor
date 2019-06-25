@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a8f5ca3-8e5c-4c77-8796-0b7f75924195" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/Predictor.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/Predictor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/Predictor.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +16,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/bin/Predictor.py">
+        <entry file="file://$PROJECT_DIR$/venv/bin/RandomSeasonFetcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+            <state relative-caret-position="-556">
               <folding>
                 <element signature="e#22#75#0" expanded="true" />
               </folding>
@@ -74,6 +71,17 @@
               <item name="NBAAllStarPredictor" type="b2602c69:ProjectViewProjectNode" />
               <item name="NBAAllStarPredictor" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NBAAllStarPredictor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NBAAllStarPredictor" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NBAAllStarPredictor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NBAAllStarPredictor" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -109,7 +117,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bin/Predictor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bin/RandomSeasonFetcher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,12 +166,12 @@
       <updated>1561415072135</updated>
       <workItem from="1561415077243" duration="315000" />
       <workItem from="1561415599705" duration="5776000" />
-      <workItem from="1561476229912" duration="305000" />
+      <workItem from="1561476229912" duration="1128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6396000" />
+    <option name="totallyTimeSpent" value="7219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="155" y="41" width="1256" height="859" extended-state="0" />
@@ -184,34 +192,22 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32985657" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.37418514" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.37418514" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3294893" />
-      <window_info anchor="right" x="0" y="0" width="264" height="659" id="Documentation" order="4" side_tool="true" visible="true" weight="0.13014828" />
+      <window_info active="true" anchor="right" x="0" y="0" width="264" height="659" id="Documentation" order="4" side_tool="true" visible="true" weight="0.13014828" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/venv/bin/Predictor.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/bin/Predictor.py">
+    <entry file="file://$PROJECT_DIR$/venv/bin/RandomSeasonFetcher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        <state relative-caret-position="-556">
           <folding>
             <element signature="e#22#75#0" expanded="true" />
           </folding>
