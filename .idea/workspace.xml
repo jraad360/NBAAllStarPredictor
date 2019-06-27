@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a8f5ca3-8e5c-4c77-8796-0b7f75924195" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/bin/Predictor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/RandomSeasonFetcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/SeasonFetcher.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/bin/RandomSeasonFetcher.py">
+        <entry file="file://$PROJECT_DIR$/venv/bin/SeasonFetcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-556">
-              <folding>
-                <element signature="e#22#75#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -48,14 +47,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/venv/bin/Predictor.py" />
+        <option value="$PROJECT_DIR$/venv/bin/SeasonFetcher.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="155" />
-    <option name="y" value="41" />
+    <option name="x" value="78" />
+    <option name="y" value="220" />
     <option name="width" value="1256" />
-    <option name="height" value="859" />
+    <option name="height" value="680" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -111,13 +111,16 @@
       <module name="NBAAllStarPredictor" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/bin" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bin/RandomSeasonFetcher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bin/SeasonFetcher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,17 +170,18 @@
       <workItem from="1561415077243" duration="315000" />
       <workItem from="1561415599705" duration="5776000" />
       <workItem from="1561476229912" duration="1128000" />
+      <workItem from="1561638925661" duration="65000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7219000" />
+    <option name="totallyTimeSpent" value="7284000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="155" y="41" width="1256" height="859" extended-state="0" />
+    <frame x="78" y="41" width="1256" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25782537" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.261944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -197,7 +201,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3294893" />
-      <window_info active="true" anchor="right" x="0" y="0" width="264" height="659" id="Documentation" order="4" side_tool="true" visible="true" weight="0.13014828" />
+      <window_info anchor="right" x="0" y="0" width="264" height="659" id="Documentation" order="4" side_tool="true" visible="true" weight="0.13014828" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -205,12 +209,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/bin/RandomSeasonFetcher.py">
+    <entry file="file://$PROJECT_DIR$/venv/bin/SeasonFetcher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-556">
-          <folding>
-            <element signature="e#22#75#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
